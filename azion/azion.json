@@ -1,0 +1,20 @@
+{
+  "name": "Angular-rv91yx",
+  "env": "production",
+  "application": {
+    "id": 1693423916,
+    "name": "Angular-rv91yx"
+  },
+  "domain": {
+    "id": 1693427455,
+    "name": "Angular-rv91yx",
+    "url": "iphym1bygf.map.azionedge.net"
+  },
+  "function": {
+    "id": 10317,
+    "name": "Angular-rv91yx"
+  },
+  "version-id": "20230830201411",
+  "type": "angular",
+  "mode": "deliver"
+}
